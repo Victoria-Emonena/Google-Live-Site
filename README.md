@@ -9,21 +9,21 @@
   <pre>
 Google-Live-Site/
 ├── live site.html          # Main HTML file
-├── src/                # (if present) raw Tailwind CSS input file
-├── output.css          # Compiled Tailwind CSS (linked in index.html)
-└── assets/         # Images and icons //images are not in a separate 'assets' folder
+├── src/                # raw Tailwind CSS input file and output file for compilation
+├── output.css          # Compiled Tailwind CSS (linked in live site.html)
+└── assets/         # Images and icons used
   </pre>
 
   <h2>How to View</h2>
   <p>
     No build step is required for viewing.  
-    Simply clone the repository and open <code>index.html</code> in your browser:
+    Simply clone the repository and open <code>live site.html</code> in your browser:
   </p>
 
   <pre>
 git clone https://github.com/Victoria-Emonena/Google-Live-Site.git
 cd Google-Live-Site
-open index.html
+open live site.html
   </pre>
   
   <p>
