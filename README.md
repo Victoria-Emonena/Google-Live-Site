@@ -3,7 +3,8 @@
     A recreation of the Google Chrome whats-new webpage built with 
     <strong>HTML</strong>, <strong>Tailwind CSS</strong> and <strong>CSS</strong>. 
     The goal of this project is to practice modern frontend development techniques 
-    and demonstrate clean, responsive UI design. You can view the original webpage by typing <code>chrome://whats-new/</code> in your Google Chrome search bar. Please note that the content might look a little different as it is updated frequently by its publishers but the layout should remain the same.
+    and demonstrate clean, responsive UI design. 
+    You can view the original webpage by typing <code>chrome://whats-new/</code> in your Google Chrome search bar. Please note that the content might look a little different as it is updated frequently by its        publishers but the layout should remain the same.
 </p>
 <h2>Project Structure</h2>
   <pre>
