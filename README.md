@@ -33,7 +33,7 @@ open live site.html
 
   <h2>Notes</h2>
   <ul>
-    <li>Viewers only need <code>index.html</code> and <code>output.css</code> to see the project.</li>
+    <li>Viewers only need <code>live site.html</code> and <code>output.css</code> to see the project.</li>
     <li>Images should be placed in the <code>assets/</code> directory and referenced in the HTML or CSS.</li>
   </ul>
 
